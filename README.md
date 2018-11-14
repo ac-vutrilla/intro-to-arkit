@@ -51,7 +51,7 @@ Please make sure you have the following software installed before beginning the 
 
 ## Files
 
-Please [download]() the resources for the sample
+Please [download](https://www.dropbox.com/s/kmd22mdre866nv4/Assets%20AR%202.zip?dl=0) the resources for the sample
 
 ````
  Assets AR 2
