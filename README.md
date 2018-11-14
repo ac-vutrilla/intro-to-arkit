@@ -5,7 +5,7 @@
 # Let's get st *AR* ted with ARKit
 
 ## Course slides
- * [View slides here](https://github.com/ac-vutrilla/intro-to-arkit/docs/Presentation.pdf)
+ * [View slides here](https://github.com/ac-vutrilla/intro-to-arkit/tree/master/docs/)
 
 ## About This Workshop
 
