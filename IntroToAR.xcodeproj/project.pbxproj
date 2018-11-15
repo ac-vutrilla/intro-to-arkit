@@ -13,6 +13,9 @@
 		0EA2209D219BCD7000FE728E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0EA2209B219BCD7000FE728E /* Main.storyboard */; };
 		0EA2209F219BCD7200FE728E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0EA2209E219BCD7200FE728E /* Assets.xcassets */; };
 		0EA220A2219BCD7200FE728E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0EA220A0219BCD7200FE728E /* LaunchScreen.storyboard */; };
+		0EA220AA219D15F700FE728E /* ViewController+ARSCNViewDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EA220A9219D15F700FE728E /* ViewController+ARSCNViewDelegate.swift */; };
+		0EA220AC219D197100FE728E /* ViewController+ObjectAttach.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EA220AB219D197100FE728E /* ViewController+ObjectAttach.swift */; };
+		0EA220AE219D1A6200FE728E /* FocusSquare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EA220AD219D1A6200FE728E /* FocusSquare.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		0EA2209E219BCD7200FE728E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0EA220A1219BCD7200FE728E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0EA220A3219BCD7200FE728E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0EA220A9219D15F700FE728E /* ViewController+ARSCNViewDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewController+ARSCNViewDelegate.swift"; sourceTree = "<group>"; };
+		0EA220AB219D197100FE728E /* ViewController+ObjectAttach.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewController+ObjectAttach.swift"; sourceTree = "<group>"; };
+		0EA220AD219D1A6200FE728E /* FocusSquare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusSquare.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +65,9 @@
 				0EA22095219BCD7000FE728E /* AppDelegate.swift */,
 				0EA22097219BCD7000FE728E /* art.scnassets */,
 				0EA22099219BCD7000FE728E /* ViewController.swift */,
+				0EA220A9219D15F700FE728E /* ViewController+ARSCNViewDelegate.swift */,
+				0EA220AB219D197100FE728E /* ViewController+ObjectAttach.swift */,
+				0EA220AD219D1A6200FE728E /* FocusSquare.swift */,
 				0EA2209B219BCD7000FE728E /* Main.storyboard */,
 				0EA2209E219BCD7200FE728E /* Assets.xcassets */,
 				0EA220A0219BCD7200FE728E /* LaunchScreen.storyboard */,
@@ -139,8 +148,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0EA220AA219D15F700FE728E /* ViewController+ARSCNViewDelegate.swift in Sources */,
 				0EA2209A219BCD7000FE728E /* ViewController.swift in Sources */,
+				0EA220AC219D197100FE728E /* ViewController+ObjectAttach.swift in Sources */,
 				0EA22096219BCD7000FE728E /* AppDelegate.swift in Sources */,
+				0EA220AE219D1A6200FE728E /* FocusSquare.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
